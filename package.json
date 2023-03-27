@@ -1,0 +1,13 @@
+{
+  "name": "notion-comments-api",
+  "version": "0.0.0",
+  "devDependencies": {
+    "better-sqlite3": "^8.0.1",
+    "wrangler": "2.13.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  }
+}

@@ -1,0 +1,8 @@
+name = "comments-api"
+main = "src/index.js"
+compatibility_date = "2023-03-24"
+
+[[ d1_databases ]]
+binding = "COMMENTS_DB"
+database_name = "comments-db"
+database_id = "f9a20de6-7b73-4a86-b139-744384e22f33"
