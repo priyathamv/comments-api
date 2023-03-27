@@ -5,4 +5,4 @@ compatibility_date = "2023-03-24"
 [[ d1_databases ]]
 binding = "COMMENTS_DB"
 database_name = "comments-db"
-database_id = "f9a20de6-7b73-4a86-b139-744384e22f33"
+database_id = "e20960b8-8d0d-4498-83af-8be3369391d2"
